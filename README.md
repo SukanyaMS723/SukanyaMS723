@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://builtin.com/sites/default/files/styles/medium/public/2018-88/artificial-intelligence-companies.jpe">
+<img src="https://builtin.com/sites/default/files/styles/medium/public/2018-08/artificial-intelligence-companies.jpg">
